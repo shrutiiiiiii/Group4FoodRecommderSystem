@@ -1,0 +1,1001 @@
+Meal,Restaurant,Price,Rating,Location,Country
+Beef Burger,Eddie Rocket's,5.31,4.3,Derry,Ireland
+Smoked Salmon,Sophie's  The Dean,27.44,4.6,Kilkenny,Ireland
+Black Pudding,777,10.74,4.9,Derry,Ireland
+Apple Tart,Sophie's  The Dean,15.83,4.1,Waterford,Ireland
+Caesar Salad,Sophie's  The Dean,14.43,3.8,Dublin,Ireland
+Black Pudding,Gallagher's Boxty House,8.47,4.4,Kilkenny,Ireland
+Irish Coffee,Klaw,6.98,4.7,Limerick,Ireland
+Irish Stew,Umi Falafel,21.48,3.9,Belfast,Ireland
+Bacon and Cabbage,Richmond,27.71,4.9,Galway,Ireland
+Irish Coffee,Eddie Rocket's,17.77,4.3,Dublin,Ireland
+Bacon and Cabbage,Gallagher's Boxty House,29.4,4.5,Belfast,Ireland
+Irish Stew,Umi Falafel,29.65,4.9,Dublin,Ireland
+Boxty,Copper Alley Bistro,29.03,3.5,Derry,Ireland
+Boxty,The Pig's Ear,25.07,4.1,Wexford,Ireland
+Irish Stew,Matt the Thresher,12.24,4.3,Dublin,Ireland
+Beef Burger,The Woollen Mills,15.9,4.7,Limerick,Ireland
+Mushroom Risotto,The Old Spot,14.13,3.3,Derry,Ireland
+Fish and Chips,Chapter One,13.03,4.9,Dublin,Ireland
+Black Pudding,Leo Burdock,29.11,3.3,Galway,Ireland
+Lamb Shank,Umi Falafel,16.75,4,Derry,Ireland
+Chicken Fillet Roll,The Cedar Tree,15.95,4.9,Belfast,Ireland
+Irish Coffee,The Old Spot,10.37,3.3,Belfast,Ireland
+Shepherd’s Pie,Sophie's  The Dean,11.94,4.1,Belfast,Ireland
+Chicken Fillet Roll,The Pig's Ear,17.76,3.3,Kilkenny,Ireland
+White Pudding,The Millstone,28.37,3.8,Sligo,Ireland
+Irish Coffee,Copper Alley Bistro,11.55,4.8,Waterford,Ireland
+Fish and Chips,Leo Burdock,17.75,3.1,Wexford,Ireland
+Chicken Tikka Masala,The Millstone,20.82,4.3,Galway,Ireland
+Seafood Chowder,Cornucopia,15.66,3.9,Cork,Ireland
+Black Pudding,The Pig's Ear,15.7,4.3,Sligo,Ireland
+Soda Bread,The Woollen Mills,14.12,4.7,Derry,Ireland
+Smoked Salmon,Gallagher's Boxty House,16.14,3.3,Kilkenny,Ireland
+Shepherd’s Pie,Bunsen,15.43,4.1,Sligo,Ireland
+Caesar Salad,Matt the Thresher,29.81,4,Dublin,Ireland
+Boxty,Richmond,21.57,5,Wexford,Ireland
+Beef and Guinness Stew,Umi Falafel,19.61,3.2,Waterford,Ireland
+Black Pudding,Bunsen,20.13,4,Kilkenny,Ireland
+Boxty,Fade Street Social,17.49,4,Belfast,Ireland
+Baileys Cheesecake,Bunsen,26.56,4,Sligo,Ireland
+Margherita Pizza,The Pig's Ear,6.68,3.3,Cork,Ireland
+Seafood Chowder,Pickle,5.36,3.4,Derry,Ireland
+Black Pudding,Richmond,5.86,3.3,Wexford,Ireland
+Bacon and Cabbage,Sophie's  The Dean,8.72,3.2,Dublin,Ireland
+Colcannon,Leo Burdock,24.25,3.5,Waterford,Ireland
+Colcannon,The Cedar Tree,9.94,4.8,Waterford,Ireland
+Baileys Cheesecake,Copper Alley Bistro,21.4,3.4,Sligo,Ireland
+Bangers and Mash,Pickle,15.85,5,Sligo,Ireland
+Smoked Salmon,The Winding Stair,16.54,3.3,Belfast,Ireland
+Colcannon,Leo Burdock,18.22,4.6,Sligo,Ireland
+Boxty,The Woollen Mills,20.88,3.8,Cork,Ireland
+Lamb Shank,The Old Spot,19.82,3.2,Dublin,Ireland
+Vegetable Curry,Umi Falafel,7.05,3.5,Derry,Ireland
+Chicken Tikka Masala,The Old Spot,29.32,4.9,Wexford,Ireland
+Chicken Tikka Masala,Dillinger's,18.88,4.7,Wexford,Ireland
+Seafood Chowder,Matt the Thresher,22.31,3.6,Dublin,Ireland
+Chicken Wings,Klaw,26.36,3.4,Derry,Ireland
+Full Irish Breakfast,Pickle,28.26,4.8,Kilkenny,Ireland
+Black Pudding,Umi Falafel,5.08,4.3,Sligo,Ireland
+Seafood Chowder,777,26.45,3.1,Galway,Ireland
+Apple Tart,The Millstone,22.44,3.6,Derry,Ireland
+Coddle,Sophie's  The Dean,14.66,3.5,Limerick,Ireland
+Caesar Salad,The Cedar Tree,5.95,4.8,Wexford,Ireland
+Mushroom Risotto,The Winding Stair,8.37,3.6,Cork,Ireland
+Full Irish Breakfast,The Ivy Dublin,25.95,5,Cork,Ireland
+Smoked Salmon,Boojum,6.05,4.8,Waterford,Ireland
+Chicken Wings,The Millstone,28.08,3.7,Kilkenny,Ireland
+Boxty,Gallagher's Boxty House,10.28,3,Kilkenny,Ireland
+White Pudding,Fade Street Social,16.11,4.6,Limerick,Ireland
+Shepherd’s Pie,The Cedar Tree,15.9,3.5,Kilkenny,Ireland
+Baileys Cheesecake,Eddie Rocket's,16.03,4.7,Wexford,Ireland
+Boxty,The Cedar Tree,6.5,4.6,Dublin,Ireland
+Shepherd’s Pie,The Greenhouse,14.45,4.4,Limerick,Ireland
+Beef and Guinness Stew,The Winding Stair,9.59,3,Sligo,Ireland
+Fish and Chips,The Greenhouse,23.38,3.5,Wexford,Ireland
+Beef and Guinness Stew,Copper Alley Bistro,12.04,4.1,Sligo,Ireland
+Chicken Tikka Masala,The Winding Stair,5.93,3.4,Galway,Ireland
+Bangers and Mash,Umi Falafel,5.51,3.9,Dublin,Ireland
+Boxty,Fade Street Social,15.95,3.8,Cork,Ireland
+Soda Bread,777,21.99,4.3,Derry,Ireland
+Bangers and Mash,Bunsen,11.89,3.5,Wexford,Ireland
+Mushroom Risotto,Klaw,7.36,4.1,Cork,Ireland
+Pad Thai,Dillinger's,21.4,3.7,Dublin,Ireland
+Spaghetti Carbonara,The Winding Stair,5.69,3.1,Wexford,Ireland
+Potato Farls,The Greenhouse,14.17,3.6,Belfast,Ireland
+Baileys Cheesecake,Boojum,27.78,3.5,Sligo,Ireland
+Chicken Fillet Roll,Klaw,10.99,5,Wexford,Ireland
+Baileys Cheesecake,Richmond,16.71,4.5,Limerick,Ireland
+Seafood Chowder,The Cedar Tree,25.87,4,Limerick,Ireland
+Soda Bread,Boojum,12.53,4.3,Kilkenny,Ireland
+Irish Stew,The Cedar Tree,5.21,4.7,Wexford,Ireland
+Apple Tart,777,5.03,4.3,Sligo,Ireland
+Baileys Cheesecake,Gallagher's Boxty House,23.17,3.1,Wexford,Ireland
+Bacon and Cabbage,Cornucopia,21.36,5,Wexford,Ireland
+Bangers and Mash,Cornucopia,9.83,4.3,Wexford,Ireland
+Chicken Tikka Masala,Bunsen,8.2,3.9,Derry,Ireland
+Colcannon,Copper Alley Bistro,17.52,4.3,Derry,Ireland
+White Pudding,Gallagher's Boxty House,28.92,4.8,Limerick,Ireland
+Pad Thai,The Pig's Ear,14.15,4.1,Waterford,Ireland
+Margherita Pizza,Pickle,17.92,3.4,Belfast,Ireland
+Chicken Wings,Pickle,12.83,4.7,Dublin,Ireland
+Potato Farls,The Cedar Tree,24.95,4.8,Dublin,Ireland
+Irish Coffee,The Old Spot,7.29,4.6,Waterford,Ireland
+Bangers and Mash,The Woollen Mills,12.64,3.4,Cork,Ireland
+Soda Bread,The Old Spot,8.65,4.2,Kilkenny,Ireland
+Margherita Pizza,Pickle,22.85,3.6,Wexford,Ireland
+Apple Tart,Cornucopia,24.83,3.8,Derry,Ireland
+Black Pudding,Eddie Rocket's,10.63,4.9,Belfast,Ireland
+Caesar Salad,Leo Burdock,7.47,4,Waterford,Ireland
+Smoked Salmon,Gallagher's Boxty House,17.22,4,Limerick,Ireland
+Fish and Chips,The Millstone,23.64,3.2,Limerick,Ireland
+Lamb Shank,Gallagher's Boxty House,26.83,4.8,Cork,Ireland
+Smoked Salmon,Sophie's  The Dean,21.05,4.8,Galway,Ireland
+Mushroom Risotto,Fade Street Social,6.99,4.5,Waterford,Ireland
+Seafood Chowder,Eddie Rocket's,21.53,4.3,Belfast,Ireland
+White Pudding,Fade Street Social,23.55,4.7,Derry,Ireland
+Bangers and Mash,Pickle,16.33,5,Cork,Ireland
+Fish and Chips,Chapter One,7.77,4.6,Dublin,Ireland
+Shepherd’s Pie,Fade Street Social,23.64,4.7,Dublin,Ireland
+Potato Farls,The Pig's Ear,10.13,5,Galway,Ireland
+Fish and Chips,The Pig's Ear,28.56,4.7,Waterford,Ireland
+Boxty,The Woollen Mills,20.07,3.5,Limerick,Ireland
+Chicken Tikka Masala,Gallagher's Boxty House,5.63,3.4,Kilkenny,Ireland
+Boxty,Cornucopia,18.88,3.6,Limerick,Ireland
+Soda Bread,Copper Alley Bistro,22.65,3.1,Cork,Ireland
+Coddle,The Cedar Tree,5.18,3.9,Belfast,Ireland
+Boxty,The Winding Stair,23.08,4.4,Limerick,Ireland
+Pad Thai,Pickle,6.8,3.8,Wexford,Ireland
+Pad Thai,The Pig's Ear,18.17,3.4,Limerick,Ireland
+Mushroom Risotto,Boojum,23.37,4.4,Limerick,Ireland
+Mushroom Risotto,777,28.71,3.4,Sligo,Ireland
+Irish Coffee,Dillinger's,9.03,4.9,Waterford,Ireland
+Chicken Fillet Roll,Dillinger's,23.58,3.7,Waterford,Ireland
+Seafood Chowder,Chapter One,24.64,4.8,Cork,Ireland
+Irish Stew,The Pig's Ear,26.52,5,Galway,Ireland
+Full Irish Breakfast,Copper Alley Bistro,16.61,4.8,Derry,Ireland
+Beef Burger,The Pig's Ear,29.42,3.8,Waterford,Ireland
+Chicken Wings,Dillinger's,28.46,3.9,Waterford,Ireland
+Potato Farls,Matt the Thresher,16.43,4.9,Waterford,Ireland
+Bacon and Cabbage,Bunsen,9.06,5,Sligo,Ireland
+White Pudding,Klaw,5.52,3.1,Galway,Ireland
+Beef and Guinness Stew,The Old Spot,27.07,3.5,Sligo,Ireland
+Fish and Chips,Eddie Rocket's,21.94,4,Galway,Ireland
+Apple Tart,The Woollen Mills,11.02,5,Derry,Ireland
+Vegetable Curry,The Ivy Dublin,28.46,4.8,Belfast,Ireland
+Lamb Shank,Sophie's  The Dean,8.22,4.5,Limerick,Ireland
+Caesar Salad,Pickle,11.04,3.5,Waterford,Ireland
+Beef and Guinness Stew,The Winding Stair,12.52,3.3,Wexford,Ireland
+Coddle,Dillinger's,8.59,3.3,Waterford,Ireland
+Bacon and Cabbage,Leo Burdock,20.11,4.6,Sligo,Ireland
+Colcannon,Leo Burdock,27.82,3.3,Belfast,Ireland
+Seafood Chowder,Copper Alley Bistro,21.39,3.7,Limerick,Ireland
+Smoked Salmon,The Cedar Tree,21.34,4.7,Dublin,Ireland
+Irish Coffee,The Millstone,22.62,3.1,Derry,Ireland
+Seafood Chowder,Bunsen,7.58,4.6,Sligo,Ireland
+Colcannon,Chapter One,19.22,3.8,Waterford,Ireland
+Fish and Chips,Chapter One,7.33,3.3,Sligo,Ireland
+Spaghetti Carbonara,Eddie Rocket's,13.5,3.9,Limerick,Ireland
+Bangers and Mash,Matt the Thresher,10.62,3.4,Wexford,Ireland
+Irish Stew,Pickle,15.82,4.9,Sligo,Ireland
+Chicken Fillet Roll,Pickle,5.56,3.5,Belfast,Ireland
+Potato Farls,The Greenhouse,8.17,4,Wexford,Ireland
+Mushroom Risotto,The Winding Stair,19.15,3.1,Sligo,Ireland
+Full Irish Breakfast,The Old Spot,17.71,3.8,Limerick,Ireland
+Full Irish Breakfast,Umi Falafel,27.42,4.6,Kilkenny,Ireland
+Black Pudding,Fade Street Social,25.2,4.5,Kilkenny,Ireland
+Pad Thai,The Winding Stair,5.31,4.9,Cork,Ireland
+Chicken Fillet Roll,Eddie Rocket's,15.45,4.6,Limerick,Ireland
+Fish and Chips,The Winding Stair,6.58,3.5,Sligo,Ireland
+Apple Tart,Cornucopia,16.28,3.8,Wexford,Ireland
+Seafood Chowder,The Pig's Ear,29.71,3.4,Waterford,Ireland
+Full Irish Breakfast,Dillinger's,17.85,4.7,Dublin,Ireland
+Bacon and Cabbage,The Millstone,8.8,4.5,Galway,Ireland
+Lamb Shank,Eddie Rocket's,23.79,3,Derry,Ireland
+Bacon and Cabbage,The Woollen Mills,21.45,4.4,Wexford,Ireland
+Chicken Tikka Masala,777,22.37,3.2,Waterford,Ireland
+Irish Stew,Gallagher's Boxty House,12.04,3.4,Waterford,Ireland
+Smoked Salmon,The Millstone,15.28,4.3,Wexford,Ireland
+Chicken Wings,The Pig's Ear,10.92,4.3,Galway,Ireland
+Beef and Guinness Stew,The Cedar Tree,29.76,3.9,Kilkenny,Ireland
+Black Pudding,Eddie Rocket's,17.78,5,Belfast,Ireland
+Spaghetti Carbonara,Leo Burdock,27.73,4.8,Wexford,Ireland
+Shepherd’s Pie,777,13.48,3.2,Kilkenny,Ireland
+Beef Burger,Cornucopia,6.35,4.3,Limerick,Ireland
+Soda Bread,The Cedar Tree,17.17,4.6,Derry,Ireland
+Shepherd’s Pie,Copper Alley Bistro,22.23,3.9,Cork,Ireland
+Caesar Salad,Eddie Rocket's,28.04,5,Dublin,Ireland
+Coddle,Klaw,18.91,4.7,Belfast,Ireland
+Seafood Chowder,Sophie's  The Dean,14.93,3.6,Waterford,Ireland
+Pad Thai,Bunsen,29.51,3.2,Belfast,Ireland
+Shepherd’s Pie,Chapter One,24.29,3.7,Derry,Ireland
+Lamb Shank,Pickle,23.47,4.1,Waterford,Ireland
+Chicken Wings,Gallagher's Boxty House,17.16,3.3,Sligo,Ireland
+Soda Bread,Klaw,6.94,3,Cork,Ireland
+Beef and Guinness Stew,Matt the Thresher,6.94,4.3,Galway,Ireland
+Boxty,Leo Burdock,18.84,3.1,Kilkenny,Ireland
+Apple Tart,Pickle,18.95,4.6,Galway,Ireland
+Pad Thai,The Woollen Mills,23.28,3.8,Wexford,Ireland
+Spaghetti Carbonara,Fade Street Social,17.11,4.2,Galway,Ireland
+Chicken Wings,The Greenhouse,24.18,3.2,Sligo,Ireland
+Bangers and Mash,Boojum,23.47,4,Cork,Ireland
+Baileys Cheesecake,777,27.19,4.2,Belfast,Ireland
+Mushroom Risotto,The Greenhouse,24.19,3.3,Derry,Ireland
+Margherita Pizza,Klaw,14.26,4.2,Wexford,Ireland
+Caesar Salad,The Winding Stair,24.08,3.2,Galway,Ireland
+Baileys Cheesecake,Boojum,10.09,4.5,Derry,Ireland
+Full Irish Breakfast,Richmond,9.78,3.8,Derry,Ireland
+Smoked Salmon,Cornucopia,23.67,3.7,Cork,Ireland
+Soda Bread,Chapter One,17.28,4.7,Galway,Ireland
+Boxty,The Old Spot,28.26,4.4,Derry,Ireland
+Apple Tart,Sophie's  The Dean,11.5,3.4,Derry,Ireland
+Soda Bread,Matt the Thresher,27.61,3.8,Derry,Ireland
+Full Irish Breakfast,The Ivy Dublin,17.59,3.7,Sligo,Ireland
+Chicken Tikka Masala,Sophie's  The Dean,5.04,3.7,Dublin,Ireland
+Coddle,Klaw,10.11,3.7,Derry,Ireland
+Pad Thai,Klaw,29.12,3.3,Dublin,Ireland
+Caesar Salad,Fade Street Social,29.39,4.4,Dublin,Ireland
+Beef Burger,Cornucopia,18.92,3.2,Belfast,Ireland
+Caesar Salad,The Pig's Ear,21.66,3.5,Sligo,Ireland
+Vegetable Curry,The Old Spot,27.56,3,Kilkenny,Ireland
+Lamb Shank,The Woollen Mills,21.19,4.8,Wexford,Ireland
+Boxty,Chapter One,23.76,3.5,Waterford,Ireland
+Chicken Tikka Masala,Boojum,23.66,4.5,Derry,Ireland
+Pad Thai,Leo Burdock,10,3.2,Galway,Ireland
+Colcannon,Umi Falafel,26.41,3.9,Limerick,Ireland
+Beef Burger,Bunsen,16.2,3.3,Sligo,Ireland
+Apple Tart,The Old Spot,25.22,4.2,Kilkenny,Ireland
+Baileys Cheesecake,The Cedar Tree,20.3,3,Belfast,Ireland
+Baileys Cheesecake,The Cedar Tree,10.72,3.7,Belfast,Ireland
+Bacon and Cabbage,Richmond,7.35,3.9,Cork,Ireland
+Soda Bread,Boojum,27.71,3.3,Belfast,Ireland
+Mushroom Risotto,Umi Falafel,15.7,4,Belfast,Ireland
+Full Irish Breakfast,Umi Falafel,11.76,3.6,Cork,Ireland
+Boxty,Gallagher's Boxty House,28.35,3.1,Galway,Ireland
+Colcannon,The Woollen Mills,6.23,4.9,Kilkenny,Ireland
+Bacon and Cabbage,Sophie's  The Dean,21.13,4,Limerick,Ireland
+Irish Stew,The Old Spot,5.25,3.1,Cork,Ireland
+Bacon and Cabbage,Umi Falafel,12.91,4.7,Dublin,Ireland
+Chicken Tikka Masala,The Woollen Mills,11.66,4.6,Limerick,Ireland
+Lamb Shank,The Millstone,25.85,4.2,Dublin,Ireland
+Chicken Wings,Bunsen,18.51,3,Belfast,Ireland
+Spaghetti Carbonara,The Millstone,9.64,4.4,Derry,Ireland
+Irish Coffee,The Greenhouse,24.5,3.2,Wexford,Ireland
+Soda Bread,The Woollen Mills,27.23,5,Waterford,Ireland
+Shepherd’s Pie,The Pig's Ear,16.91,3.8,Cork,Ireland
+Shepherd’s Pie,The Ivy Dublin,9.18,4.1,Derry,Ireland
+Vegetable Curry,Gallagher's Boxty House,27.42,3.8,Dublin,Ireland
+Smoked Salmon,The Old Spot,19.39,3.5,Dublin,Ireland
+Soda Bread,The Winding Stair,29.05,4,Sligo,Ireland
+Seafood Chowder,Dillinger's,15.42,4.8,Derry,Ireland
+Smoked Salmon,Bunsen,25.29,4.2,Waterford,Ireland
+Soda Bread,Eddie Rocket's,16.39,3.6,Wexford,Ireland
+Margherita Pizza,Richmond,25.76,3.3,Waterford,Ireland
+Mushroom Risotto,Cornucopia,25.97,4.1,Galway,Ireland
+Caesar Salad,777,7.23,3.5,Derry,Ireland
+Chicken Tikka Masala,The Pig's Ear,7.7,3.3,Galway,Ireland
+Colcannon,The Old Spot,14.55,4.3,Galway,Ireland
+Chicken Tikka Masala,The Winding Stair,7.64,4.2,Kilkenny,Ireland
+Chicken Fillet Roll,Dillinger's,14.88,4.1,Belfast,Ireland
+Spaghetti Carbonara,Leo Burdock,19.59,3.1,Belfast,Ireland
+Potato Farls,Matt the Thresher,12.77,4.3,Galway,Ireland
+Seafood Chowder,Boojum,7.78,4.5,Wexford,Ireland
+Coddle,Fade Street Social,8.81,4.8,Waterford,Ireland
+Vegetable Curry,Leo Burdock,13.78,4,Belfast,Ireland
+Boxty,Umi Falafel,17.73,4.7,Cork,Ireland
+Seafood Chowder,The Cedar Tree,20.26,3.8,Cork,Ireland
+Beef and Guinness Stew,Chapter One,27.11,4.1,Dublin,Ireland
+Coddle,Bunsen,8.55,4.8,Cork,Ireland
+Bacon and Cabbage,Dillinger's,24.53,3.5,Sligo,Ireland
+Full Irish Breakfast,The Old Spot,17.33,3.3,Derry,Ireland
+White Pudding,Sophie's  The Dean,11.48,4.2,Waterford,Ireland
+Coddle,777,26.04,4.8,Belfast,Ireland
+Spaghetti Carbonara,Richmond,20.86,3.7,Kilkenny,Ireland
+Caesar Salad,Chapter One,16.17,3.8,Kilkenny,Ireland
+Bangers and Mash,Sophie's  The Dean,6.59,3.3,Sligo,Ireland
+Shepherd’s Pie,Richmond,17.95,4.6,Derry,Ireland
+Beef Burger,Dillinger's,23.48,4.4,Kilkenny,Ireland
+Apple Tart,The Woollen Mills,9.9,4.9,Derry,Ireland
+Spaghetti Carbonara,The Pig's Ear,22.91,3.4,Wexford,Ireland
+Beef and Guinness Stew,Eddie Rocket's,27.12,3,Cork,Ireland
+Full Irish Breakfast,The Greenhouse,14.39,4.3,Kilkenny,Ireland
+Fish and Chips,Richmond,18.92,4.3,Waterford,Ireland
+Lamb Shank,Boojum,28.63,3.6,Wexford,Ireland
+Colcannon,Matt the Thresher,27.54,4.6,Galway,Ireland
+Vegetable Curry,The Greenhouse,29.13,4.7,Wexford,Ireland
+Full Irish Breakfast,The Old Spot,26.67,3.6,Dublin,Ireland
+Boxty,The Greenhouse,16.66,3,Limerick,Ireland
+Spaghetti Carbonara,Eddie Rocket's,15.15,3.6,Kilkenny,Ireland
+Shepherd’s Pie,Gallagher's Boxty House,20.27,4,Waterford,Ireland
+Irish Stew,Dillinger's,26.05,3.7,Derry,Ireland
+Chicken Fillet Roll,Sophie's  The Dean,5.02,3.1,Derry,Ireland
+Shepherd’s Pie,Richmond,20.44,4.7,Sligo,Ireland
+Vegetable Curry,The Pig's Ear,23.3,3.4,Belfast,Ireland
+Baileys Cheesecake,Umi Falafel,22.32,3.3,Kilkenny,Ireland
+Chicken Wings,Bunsen,18.34,3.7,Limerick,Ireland
+Beef and Guinness Stew,Richmond,24.98,3.8,Waterford,Ireland
+Beef and Guinness Stew,Boojum,16.57,3.1,Dublin,Ireland
+White Pudding,Gallagher's Boxty House,9.19,3.8,Dublin,Ireland
+Beef and Guinness Stew,Leo Burdock,8.3,4.4,Galway,Ireland
+Caesar Salad,The Winding Stair,17.41,4.2,Wexford,Ireland
+Baileys Cheesecake,Klaw,17.72,3.4,Wexford,Ireland
+Irish Coffee,The Ivy Dublin,19.61,3.6,Derry,Ireland
+Chicken Wings,Richmond,11.89,4.1,Waterford,Ireland
+Full Irish Breakfast,777,27.79,4.9,Waterford,Ireland
+Smoked Salmon,Klaw,26.52,4.7,Limerick,Ireland
+Vegetable Curry,The Cedar Tree,27.06,4,Sligo,Ireland
+Full Irish Breakfast,Bunsen,17.73,4.4,Waterford,Ireland
+Potato Farls,Richmond,27.23,3.6,Waterford,Ireland
+Apple Tart,The Woollen Mills,28.65,3.5,Belfast,Ireland
+Vegetable Curry,Leo Burdock,7.06,4.6,Galway,Ireland
+Bangers and Mash,Copper Alley Bistro,17.95,3.6,Galway,Ireland
+Soda Bread,The Ivy Dublin,15.26,4.9,Wexford,Ireland
+Chicken Wings,The Winding Stair,17.54,3.3,Derry,Ireland
+Bangers and Mash,Dillinger's,26.57,4.2,Limerick,Ireland
+White Pudding,Boojum,23.22,4.3,Limerick,Ireland
+Fish and Chips,Umi Falafel,18.53,4.6,Cork,Ireland
+Coddle,Pickle,28.12,4.7,Waterford,Ireland
+White Pudding,Bunsen,6.41,4.3,Cork,Ireland
+Soda Bread,Leo Burdock,21.83,3,Belfast,Ireland
+Potato Farls,The Woollen Mills,14.33,4.6,Kilkenny,Ireland
+Chicken Tikka Masala,Klaw,8.87,4.4,Galway,Ireland
+Bangers and Mash,The Pig's Ear,14.18,3.4,Derry,Ireland
+Seafood Chowder,The Woollen Mills,13.71,3.7,Belfast,Ireland
+Boxty,Umi Falafel,9.91,4,Derry,Ireland
+Coddle,The Winding Stair,15.36,3.1,Dublin,Ireland
+Chicken Fillet Roll,Cornucopia,9.42,3.5,Belfast,Ireland
+Margherita Pizza,The Winding Stair,20.5,3.3,Galway,Ireland
+Full Irish Breakfast,Boojum,23.47,3.3,Cork,Ireland
+Bacon and Cabbage,Klaw,20.54,3.2,Galway,Ireland
+Colcannon,The Pig's Ear,24.13,3.1,Wexford,Ireland
+Coddle,Cornucopia,10.87,3.2,Belfast,Ireland
+Beef and Guinness Stew,Fade Street Social,14.2,3.6,Sligo,Ireland
+Boxty,Chapter One,16.41,3.9,Galway,Ireland
+White Pudding,Copper Alley Bistro,6.23,3.9,Limerick,Ireland
+Colcannon,The Old Spot,20.65,3.8,Waterford,Ireland
+Bangers and Mash,The Cedar Tree,7.44,3,Cork,Ireland
+Colcannon,Fade Street Social,20.77,4.3,Belfast,Ireland
+Mushroom Risotto,Gallagher's Boxty House,25.63,4,Kilkenny,Ireland
+Spaghetti Carbonara,Matt the Thresher,24,3.4,Kilkenny,Ireland
+Coddle,Dillinger's,23.51,3.7,Kilkenny,Ireland
+Potato Farls,Eddie Rocket's,28.86,4.1,Limerick,Ireland
+Spaghetti Carbonara,Richmond,16.15,4,Wexford,Ireland
+Beef Burger,Bunsen,16.69,3.7,Belfast,Ireland
+Bacon and Cabbage,777,9.25,4.8,Waterford,Ireland
+Beef and Guinness Stew,The Pig's Ear,15.03,3.4,Belfast,Ireland
+Bacon and Cabbage,The Ivy Dublin,17.63,3.3,Wexford,Ireland
+Caesar Salad,The Greenhouse,18.54,3.4,Cork,Ireland
+Caesar Salad,The Ivy Dublin,6.46,3.3,Waterford,Ireland
+Vegetable Curry,Chapter One,10.2,3.3,Derry,Ireland
+Chicken Wings,Boojum,21.84,3.5,Waterford,Ireland
+Caesar Salad,The Greenhouse,25.42,4.7,Wexford,Ireland
+Pad Thai,Copper Alley Bistro,16.43,4.5,Limerick,Ireland
+Bacon and Cabbage,Bunsen,8.86,3.4,Sligo,Ireland
+Seafood Chowder,The Woollen Mills,10.26,3.6,Galway,Ireland
+Chicken Fillet Roll,777,21.2,3.8,Waterford,Ireland
+Smoked Salmon,Gallagher's Boxty House,16.28,4.2,Cork,Ireland
+Pad Thai,Sophie's  The Dean,29.72,4.6,Sligo,Ireland
+Pad Thai,Matt the Thresher,21.76,4.2,Wexford,Ireland
+Chicken Wings,Matt the Thresher,7.86,4.7,Galway,Ireland
+Chicken Wings,The Woollen Mills,10.23,4,Belfast,Ireland
+Smoked Salmon,Umi Falafel,24.4,4.9,Waterford,Ireland
+Colcannon,The Woollen Mills,25.34,4.3,Waterford,Ireland
+Black Pudding,Pickle,20.59,3.5,Waterford,Ireland
+Fish and Chips,Bunsen,13.88,4.4,Kilkenny,Ireland
+Chicken Wings,Boojum,7.21,3.8,Dublin,Ireland
+Pad Thai,Richmond,15.02,4.3,Derry,Ireland
+Lamb Shank,The Greenhouse,23.88,4.6,Cork,Ireland
+Boxty,Dillinger's,17.72,3.7,Waterford,Ireland
+Mushroom Risotto,The Old Spot,11.25,3.7,Limerick,Ireland
+Beef Burger,Matt the Thresher,25.6,4.4,Cork,Ireland
+Chicken Tikka Masala,Sophie's  The Dean,22.55,4.5,Waterford,Ireland
+Potato Farls,Cornucopia,29.26,3.8,Cork,Ireland
+Seafood Chowder,Leo Burdock,9.58,4.5,Kilkenny,Ireland
+Irish Stew,Gallagher's Boxty House,14.71,3.1,Derry,Ireland
+Spaghetti Carbonara,The Woollen Mills,10.78,3.4,Belfast,Ireland
+Chicken Wings,Umi Falafel,15.75,4.9,Cork,Ireland
+Seafood Chowder,The Pig's Ear,17,3.9,Belfast,Ireland
+Apple Tart,Dillinger's,13.97,3.2,Kilkenny,Ireland
+Chicken Tikka Masala,Gallagher's Boxty House,28.9,4.8,Limerick,Ireland
+Colcannon,The Winding Stair,6.65,4.4,Limerick,Ireland
+White Pudding,Bunsen,10.69,4.4,Derry,Ireland
+Vegetable Curry,Cornucopia,23.61,4.6,Kilkenny,Ireland
+Shepherd’s Pie,777,10.53,4.5,Belfast,Ireland
+Black Pudding,777,26.32,4.4,Sligo,Ireland
+Boxty,The Winding Stair,10.95,4.3,Wexford,Ireland
+Smoked Salmon,The Pig's Ear,14.49,3.4,Derry,Ireland
+Apple Tart,Matt the Thresher,13.7,3.7,Limerick,Ireland
+Spaghetti Carbonara,Copper Alley Bistro,28.8,3.1,Cork,Ireland
+Coddle,Klaw,11.15,3.4,Derry,Ireland
+Colcannon,The Greenhouse,10.51,4.8,Belfast,Ireland
+Beef Burger,Klaw,20.6,3,Derry,Ireland
+Bacon and Cabbage,Gallagher's Boxty House,13.69,4,Cork,Ireland
+Apple Tart,The Old Spot,5.58,4.1,Sligo,Ireland
+Chicken Tikka Masala,Bunsen,9.89,4.4,Kilkenny,Ireland
+Potato Farls,The Cedar Tree,26.42,4.1,Derry,Ireland
+Seafood Chowder,The Greenhouse,17.2,3.6,Belfast,Ireland
+Colcannon,The Pig's Ear,15.43,3.5,Waterford,Ireland
+Soda Bread,Cornucopia,17.07,4.2,Kilkenny,Ireland
+Boxty,777,10.59,4.8,Dublin,Ireland
+Colcannon,Cornucopia,29.07,4.2,Dublin,Ireland
+Full Irish Breakfast,777,29.59,3.8,Galway,Ireland
+Baileys Cheesecake,The Woollen Mills,28.54,4.7,Derry,Ireland
+Shepherd’s Pie,Gallagher's Boxty House,21.69,4.2,Derry,Ireland
+Chicken Wings,Pickle,8.1,3.9,Waterford,Ireland
+Chicken Wings,Bunsen,13.83,4.2,Galway,Ireland
+Spaghetti Carbonara,Boojum,6.53,4.7,Limerick,Ireland
+Chicken Tikka Masala,Leo Burdock,28.28,3.7,Limerick,Ireland
+Chicken Wings,Leo Burdock,20.86,3.2,Kilkenny,Ireland
+Mushroom Risotto,Boojum,29.45,4.4,Wexford,Ireland
+Baileys Cheesecake,The Woollen Mills,23.16,4.5,Belfast,Ireland
+Shepherd’s Pie,The Millstone,20.14,3.4,Dublin,Ireland
+Fish and Chips,Boojum,24.58,3.8,Dublin,Ireland
+Baileys Cheesecake,Bunsen,27.54,3.1,Cork,Ireland
+Vegetable Curry,Richmond,23.83,3.4,Wexford,Ireland
+Potato Farls,Klaw,15.33,4.5,Sligo,Ireland
+Full Irish Breakfast,Sophie's  The Dean,9.39,4.5,Dublin,Ireland
+Apple Tart,Klaw,12.13,3.1,Limerick,Ireland
+Bacon and Cabbage,Dillinger's,9.85,4.8,Sligo,Ireland
+Colcannon,The Millstone,7.8,3.3,Cork,Ireland
+Spaghetti Carbonara,Boojum,28,3.5,Dublin,Ireland
+Apple Tart,Fade Street Social,19.86,4.3,Limerick,Ireland
+White Pudding,Copper Alley Bistro,14.74,3.2,Galway,Ireland
+Colcannon,Copper Alley Bistro,21.58,4.3,Waterford,Ireland
+Irish Coffee,Fade Street Social,18.73,3.9,Sligo,Ireland
+Caesar Salad,Matt the Thresher,25.33,4.9,Galway,Ireland
+Irish Coffee,Umi Falafel,21.04,4.4,Dublin,Ireland
+Full Irish Breakfast,Eddie Rocket's,29.29,3.9,Waterford,Ireland
+Coddle,Bunsen,20.87,4,Kilkenny,Ireland
+Beef and Guinness Stew,777,17.41,3.2,Waterford,Ireland
+Mushroom Risotto,777,17.94,3.8,Limerick,Ireland
+Irish Coffee,The Ivy Dublin,23.91,3.1,Sligo,Ireland
+Spaghetti Carbonara,Richmond,13.01,3.3,Waterford,Ireland
+Baileys Cheesecake,The Greenhouse,13.39,3.4,Cork,Ireland
+Fish and Chips,Fade Street Social,22.99,4.3,Galway,Ireland
+Bacon and Cabbage,The Old Spot,17.65,4.8,Cork,Ireland
+Beef Burger,The Old Spot,8.96,4.4,Galway,Ireland
+Irish Coffee,777,13.99,4.4,Waterford,Ireland
+Mushroom Risotto,The Pig's Ear,29.18,3.5,Limerick,Ireland
+Chicken Wings,Gallagher's Boxty House,15.21,4.2,Cork,Ireland
+Shepherd’s Pie,Richmond,23.75,4.3,Belfast,Ireland
+Lamb Shank,Copper Alley Bistro,21.36,4.9,Dublin,Ireland
+Pad Thai,Cornucopia,21.12,4.4,Limerick,Ireland
+Chicken Tikka Masala,The Old Spot,10.55,3.2,Limerick,Ireland
+Beef Burger,Dillinger's,9.75,3.8,Galway,Ireland
+Pad Thai,The Winding Stair,23.44,3.3,Cork,Ireland
+Chicken Tikka Masala,Gallagher's Boxty House,26.64,3.6,Belfast,Ireland
+Chicken Tikka Masala,Eddie Rocket's,15.82,3.7,Galway,Ireland
+Seafood Chowder,Pickle,9.94,4.9,Galway,Ireland
+Baileys Cheesecake,The Millstone,29.68,3.8,Dublin,Ireland
+Potato Farls,The Millstone,22.87,4.3,Cork,Ireland
+Bangers and Mash,Umi Falafel,19.93,4,Derry,Ireland
+Caesar Salad,Cornucopia,19.6,3.8,Limerick,Ireland
+White Pudding,Pickle,22.58,4.9,Galway,Ireland
+Fish and Chips,Gallagher's Boxty House,21.54,3.1,Galway,Ireland
+Lamb Shank,Matt the Thresher,15.6,4.6,Waterford,Ireland
+Lamb Shank,The Pig's Ear,11.68,3.9,Cork,Ireland
+Colcannon,Dillinger's,8.62,3.2,Waterford,Ireland
+Coddle,777,28.44,4.3,Galway,Ireland
+Irish Coffee,Leo Burdock,11.36,4.7,Galway,Ireland
+Vegetable Curry,777,16.8,4.6,Cork,Ireland
+Soda Bread,Pickle,21.72,4.7,Limerick,Ireland
+Chicken Wings,Gallagher's Boxty House,9.46,3.3,Kilkenny,Ireland
+Potato Farls,Copper Alley Bistro,11.71,3.6,Derry,Ireland
+Fish and Chips,Richmond,17.77,3.6,Wexford,Ireland
+Colcannon,Cornucopia,26.28,4,Limerick,Ireland
+Chicken Tikka Masala,The Winding Stair,26.9,4.3,Belfast,Ireland
+Beef Burger,The Ivy Dublin,25.8,3.3,Cork,Ireland
+Seafood Chowder,Fade Street Social,24.13,4.2,Galway,Ireland
+Full Irish Breakfast,Klaw,12.27,4.5,Galway,Ireland
+Apple Tart,Boojum,20.88,4.5,Belfast,Ireland
+Coddle,Copper Alley Bistro,13.21,3.3,Galway,Ireland
+Irish Stew,Sophie's  The Dean,15.57,4.5,Cork,Ireland
+Margherita Pizza,The Millstone,24.06,3.6,Belfast,Ireland
+Apple Tart,Sophie's  The Dean,8.17,4.4,Kilkenny,Ireland
+Fish and Chips,Bunsen,9.55,3.3,Galway,Ireland
+Chicken Fillet Roll,The Greenhouse,17.5,4,Belfast,Ireland
+Beef and Guinness Stew,Leo Burdock,25.02,4.2,Waterford,Ireland
+Smoked Salmon,Umi Falafel,11.68,3.1,Derry,Ireland
+Seafood Chowder,The Pig's Ear,15.31,4.9,Sligo,Ireland
+Beef Burger,Pickle,18.94,3,Belfast,Ireland
+Irish Coffee,Klaw,17.37,4,Waterford,Ireland
+Chicken Tikka Masala,Copper Alley Bistro,20.09,4.5,Sligo,Ireland
+Colcannon,Bunsen,10.02,4.7,Cork,Ireland
+Smoked Salmon,The Ivy Dublin,23.87,3.3,Dublin,Ireland
+Seafood Chowder,Klaw,28.72,3.2,Dublin,Ireland
+Seafood Chowder,The Cedar Tree,16.44,4.7,Wexford,Ireland
+Beef and Guinness Stew,Matt the Thresher,25.31,4.9,Belfast,Ireland
+Vegetable Curry,Sophie's  The Dean,7.68,3.5,Derry,Ireland
+Beef Burger,Matt the Thresher,7.29,3.3,Kilkenny,Ireland
+Shepherd’s Pie,Leo Burdock,28.43,4.9,Sligo,Ireland
+Pad Thai,The Cedar Tree,18.96,4.2,Dublin,Ireland
+Coddle,Bunsen,25.05,3.8,Cork,Ireland
+Beef and Guinness Stew,Klaw,17.33,3.3,Limerick,Ireland
+Baileys Cheesecake,Sophie's  The Dean,5.22,3.5,Kilkenny,Ireland
+Vegetable Curry,The Greenhouse,20.73,4.9,Belfast,Ireland
+Pad Thai,The Greenhouse,16.93,4.9,Sligo,Ireland
+Apple Tart,The Old Spot,17.37,5,Wexford,Ireland
+Seafood Chowder,Chapter One,28.04,3.8,Wexford,Ireland
+Irish Stew,Eddie Rocket's,14.91,3.2,Waterford,Ireland
+Caesar Salad,The Winding Stair,15.58,4.3,Wexford,Ireland
+Full Irish Breakfast,The Greenhouse,27.66,3.5,Dublin,Ireland
+Mushroom Risotto,Matt the Thresher,25.21,3.7,Dublin,Ireland
+Chicken Tikka Masala,Matt the Thresher,18.57,4.9,Wexford,Ireland
+Irish Stew,Gallagher's Boxty House,29.82,3.6,Dublin,Ireland
+Colcannon,The Pig's Ear,19.89,4.8,Dublin,Ireland
+Irish Coffee,Sophie's  The Dean,12.19,3.4,Cork,Ireland
+Seafood Chowder,Bunsen,11.14,4.9,Sligo,Ireland
+Full Irish Breakfast,The Old Spot,28.51,3.5,Galway,Ireland
+Bangers and Mash,The Greenhouse,27.44,3.1,Kilkenny,Ireland
+Bacon and Cabbage,The Pig's Ear,18.48,4.7,Waterford,Ireland
+Smoked Salmon,Sophie's  The Dean,8.16,3,Dublin,Ireland
+Fish and Chips,Pickle,7.53,4.7,Dublin,Ireland
+Irish Stew,Fade Street Social,26.26,4.1,Belfast,Ireland
+Vegetable Curry,The Woollen Mills,10.72,3.2,Cork,Ireland
+Irish Coffee,The Pig's Ear,16.24,4.9,Dublin,Ireland
+Bangers and Mash,The Old Spot,29.12,3.9,Kilkenny,Ireland
+Apple Tart,Cornucopia,12.3,4.4,Galway,Ireland
+Lamb Shank,Sophie's  The Dean,16.06,3.1,Belfast,Ireland
+Coddle,The Ivy Dublin,27.94,3.4,Wexford,Ireland
+White Pudding,Klaw,19.39,4.1,Sligo,Ireland
+Beef Burger,The Pig's Ear,10.29,3.4,Limerick,Ireland
+Baileys Cheesecake,Cornucopia,19.28,4.6,Derry,Ireland
+Boxty,Pickle,17.94,4.4,Waterford,Ireland
+White Pudding,Matt the Thresher,28.54,3.4,Limerick,Ireland
+Vegetable Curry,Pickle,6.89,3.2,Waterford,Ireland
+Margherita Pizza,Sophie's  The Dean,17.41,4.5,Waterford,Ireland
+White Pudding,Chapter One,27.8,4.5,Waterford,Ireland
+Margherita Pizza,Gallagher's Boxty House,27.53,4.3,Waterford,Ireland
+Smoked Salmon,The Winding Stair,29.91,4.3,Waterford,Ireland
+Soda Bread,Gallagher's Boxty House,25.12,4.9,Kilkenny,Ireland
+Spaghetti Carbonara,Bunsen,6.12,3,Sligo,Ireland
+Irish Coffee,Matt the Thresher,27.06,4.4,Limerick,Ireland
+Shepherd’s Pie,Klaw,19.07,4.8,Limerick,Ireland
+Margherita Pizza,The Greenhouse,6.96,4.2,Limerick,Ireland
+Shepherd’s Pie,Eddie Rocket's,15.94,3.9,Limerick,Ireland
+Apple Tart,777,27.61,3.7,Waterford,Ireland
+Irish Coffee,Sophie's  The Dean,14.86,3.2,Derry,Ireland
+Beef Burger,Cornucopia,19.24,4.8,Dublin,Ireland
+Lamb Shank,Bunsen,23.48,4.6,Limerick,Ireland
+Pad Thai,777,9.58,3.4,Dublin,Ireland
+Chicken Tikka Masala,Pickle,18.52,4.1,Waterford,Ireland
+Spaghetti Carbonara,Eddie Rocket's,5.81,4.6,Waterford,Ireland
+Potato Farls,Cornucopia,16.87,3,Limerick,Ireland
+Chicken Fillet Roll,The Pig's Ear,23.42,4.7,Kilkenny,Ireland
+Apple Tart,The Old Spot,14.05,3.3,Sligo,Ireland
+Boxty,Richmond,24.23,3.9,Sligo,Ireland
+Boxty,Umi Falafel,16.3,4.3,Sligo,Ireland
+Soda Bread,The Pig's Ear,8.27,3.3,Derry,Ireland
+Potato Farls,Chapter One,17.7,4.6,Wexford,Ireland
+Spaghetti Carbonara,The Woollen Mills,20.06,3.5,Cork,Ireland
+Beef Burger,Gallagher's Boxty House,7.79,4.8,Belfast,Ireland
+Seafood Chowder,The Ivy Dublin,29.45,3.8,Cork,Ireland
+Mushroom Risotto,Klaw,23.31,4.5,Belfast,Ireland
+Fish and Chips,Richmond,19.61,3.6,Sligo,Ireland
+Vegetable Curry,Sophie's  The Dean,9.48,4.2,Derry,Ireland
+Chicken Fillet Roll,The Old Spot,29.56,4.5,Galway,Ireland
+Apple Tart,The Cedar Tree,22.27,3.3,Limerick,Ireland
+Coddle,Bunsen,27.61,3.7,Sligo,Ireland
+Smoked Salmon,Cornucopia,20.46,4.1,Wexford,Ireland
+Coddle,The Old Spot,18.56,4.4,Limerick,Ireland
+Irish Stew,The Greenhouse,6.54,4.4,Waterford,Ireland
+Beef Burger,Boojum,12.6,4.7,Dublin,Ireland
+Seafood Chowder,The Winding Stair,25.78,4.6,Galway,Ireland
+Irish Stew,The Old Spot,14.92,4.2,Kilkenny,Ireland
+Colcannon,Pickle,11.74,4.2,Kilkenny,Ireland
+Apple Tart,Gallagher's Boxty House,20.13,3.7,Kilkenny,Ireland
+Seafood Chowder,777,21.24,3.5,Sligo,Ireland
+Colcannon,Klaw,28.31,4.9,Derry,Ireland
+Chicken Fillet Roll,The Woollen Mills,9.72,4.8,Derry,Ireland
+Potato Farls,Matt the Thresher,13.76,3.1,Kilkenny,Ireland
+Colcannon,The Millstone,20.95,4.1,Cork,Ireland
+Black Pudding,The Old Spot,28.95,3.3,Sligo,Ireland
+Apple Tart,The Woollen Mills,26.61,3.2,Derry,Ireland
+Beef Burger,Chapter One,28.64,3.4,Cork,Ireland
+Mushroom Risotto,Sophie's  The Dean,21.61,3.3,Belfast,Ireland
+Boxty,The Pig's Ear,25.5,4,Galway,Ireland
+Spaghetti Carbonara,Gallagher's Boxty House,14.88,3.2,Dublin,Ireland
+Vegetable Curry,Fade Street Social,17.04,3.7,Waterford,Ireland
+Full Irish Breakfast,Pickle,19.52,4.4,Wexford,Ireland
+Black Pudding,Eddie Rocket's,9.96,3.7,Wexford,Ireland
+Shepherd’s Pie,Pickle,14.63,4.6,Cork,Ireland
+Seafood Chowder,Chapter One,7.33,3.2,Kilkenny,Ireland
+Boxty,Eddie Rocket's,14.92,3.9,Belfast,Ireland
+Chicken Fillet Roll,777,17.15,4.5,Sligo,Ireland
+Beef and Guinness Stew,Leo Burdock,12.92,4.5,Limerick,Ireland
+Irish Stew,Eddie Rocket's,6.91,4.2,Waterford,Ireland
+Mushroom Risotto,The Winding Stair,18.17,4.7,Galway,Ireland
+Chicken Fillet Roll,Richmond,28.07,4,Derry,Ireland
+Potato Farls,The Ivy Dublin,8.3,3.9,Cork,Ireland
+Shepherd’s Pie,Chapter One,6.2,4.1,Limerick,Ireland
+Beef Burger,Boojum,11.11,3,Waterford,Ireland
+Soda Bread,777,18.42,3.5,Kilkenny,Ireland
+Irish Stew,The Old Spot,13.04,3.5,Derry,Ireland
+Full Irish Breakfast,Gallagher's Boxty House,7.57,3.3,Kilkenny,Ireland
+Fish and Chips,Cornucopia,22.86,4.6,Dublin,Ireland
+Caesar Salad,Cornucopia,22.02,4,Waterford,Ireland
+Apple Tart,Dillinger's,26.35,3.8,Galway,Ireland
+Beef and Guinness Stew,Umi Falafel,22.15,4.3,Belfast,Ireland
+Chicken Fillet Roll,Klaw,16.25,4.5,Wexford,Ireland
+Vegetable Curry,Dillinger's,7.28,3.2,Sligo,Ireland
+Baileys Cheesecake,Eddie Rocket's,14.87,4.5,Belfast,Ireland
+Full Irish Breakfast,The Ivy Dublin,12.27,3.6,Derry,Ireland
+Soda Bread,The Millstone,14.15,3.7,Derry,Ireland
+White Pudding,Pickle,7.04,3.2,Cork,Ireland
+Colcannon,Richmond,9.16,3.8,Kilkenny,Ireland
+Seafood Chowder,The Greenhouse,15.67,3.2,Wexford,Ireland
+Mushroom Risotto,The Greenhouse,27.43,4.6,Belfast,Ireland
+Vegetable Curry,The Cedar Tree,8.38,4.2,Dublin,Ireland
+Chicken Fillet Roll,Leo Burdock,7.07,3.1,Wexford,Ireland
+Chicken Wings,The Winding Stair,29.24,4.7,Cork,Ireland
+Caesar Salad,Umi Falafel,20.29,3.4,Limerick,Ireland
+Colcannon,Dillinger's,25.7,4.8,Wexford,Ireland
+Spaghetti Carbonara,The Greenhouse,26.86,3.1,Sligo,Ireland
+Potato Farls,The Winding Stair,20.83,4.4,Kilkenny,Ireland
+Colcannon,Leo Burdock,15.39,4.4,Waterford,Ireland
+Potato Farls,Klaw,23.64,3.9,Dublin,Ireland
+Lamb Shank,Copper Alley Bistro,20.4,3.3,Kilkenny,Ireland
+Vegetable Curry,Gallagher's Boxty House,8.15,4.9,Kilkenny,Ireland
+Vegetable Curry,The Millstone,18.32,4.5,Derry,Ireland
+Beef Burger,Cornucopia,25.91,3.7,Waterford,Ireland
+Beef Burger,The Ivy Dublin,7.81,4.1,Sligo,Ireland
+Smoked Salmon,The Greenhouse,25.16,3.5,Belfast,Ireland
+Smoked Salmon,Chapter One,8.64,3.1,Sligo,Ireland
+Apple Tart,Richmond,15.36,4.1,Dublin,Ireland
+Beef and Guinness Stew,Chapter One,16.88,4.1,Waterford,Ireland
+Vegetable Curry,Umi Falafel,15.24,4.8,Wexford,Ireland
+Mushroom Risotto,Chapter One,12.17,3.4,Wexford,Ireland
+Full Irish Breakfast,The Woollen Mills,10.7,4.3,Kilkenny,Ireland
+Beef Burger,Dillinger's,10.77,4.1,Sligo,Ireland
+Soda Bread,Bunsen,27.02,3.4,Cork,Ireland
+Baileys Cheesecake,The Greenhouse,6.3,3.9,Wexford,Ireland
+Bangers and Mash,Leo Burdock,12.38,3.7,Derry,Ireland
+Fish and Chips,Matt the Thresher,11.87,5,Galway,Ireland
+Soda Bread,Fade Street Social,18.88,4.1,Kilkenny,Ireland
+Seafood Chowder,Sophie's  The Dean,23.37,3.9,Waterford,Ireland
+Soda Bread,Gallagher's Boxty House,10.62,4.8,Derry,Ireland
+Irish Coffee,Chapter One,19.58,3.8,Belfast,Ireland
+Smoked Salmon,Copper Alley Bistro,8.23,4.3,Sligo,Ireland
+Baileys Cheesecake,Pickle,23.76,3.1,Kilkenny,Ireland
+Margherita Pizza,The Ivy Dublin,18.93,4.9,Dublin,Ireland
+Irish Coffee,Boojum,23.8,4.3,Belfast,Ireland
+Smoked Salmon,The Cedar Tree,15.43,4.5,Kilkenny,Ireland
+Pad Thai,Boojum,6.61,4.7,Cork,Ireland
+Beef and Guinness Stew,The Woollen Mills,9.64,3.8,Galway,Ireland
+Full Irish Breakfast,Bunsen,13.41,3.9,Cork,Ireland
+Soda Bread,Eddie Rocket's,27.28,3.1,Galway,Ireland
+Seafood Chowder,The Old Spot,29.1,3.2,Wexford,Ireland
+Potato Farls,The Winding Stair,22.73,4.9,Wexford,Ireland
+Smoked Salmon,Sophie's  The Dean,21.86,4.5,Waterford,Ireland
+Margherita Pizza,Eddie Rocket's,25.64,3.6,Dublin,Ireland
+Bangers and Mash,The Woollen Mills,18.22,4.5,Derry,Ireland
+Pad Thai,The Woollen Mills,27.76,4,Waterford,Ireland
+Pad Thai,Eddie Rocket's,23.63,3.3,Belfast,Ireland
+Smoked Salmon,Pickle,24.75,3.5,Belfast,Ireland
+Chicken Fillet Roll,The Greenhouse,24.19,3.6,Cork,Ireland
+Smoked Salmon,Pickle,28.38,3.9,Kilkenny,Ireland
+Chicken Wings,The Woollen Mills,23.09,4.6,Dublin,Ireland
+Boxty,The Cedar Tree,26.74,3.5,Limerick,Ireland
+Potato Farls,The Old Spot,12.74,3.1,Galway,Ireland
+Black Pudding,Chapter One,13.81,4.1,Cork,Ireland
+Potato Farls,The Old Spot,25.32,3.9,Belfast,Ireland
+Beef and Guinness Stew,Dillinger's,28.72,4.8,Kilkenny,Ireland
+Mushroom Risotto,The Millstone,24.1,3.9,Kilkenny,Ireland
+Coddle,777,29.55,3.4,Belfast,Ireland
+Vegetable Curry,Pickle,14.18,3.1,Derry,Ireland
+Bacon and Cabbage,Eddie Rocket's,16.16,4.3,Cork,Ireland
+Lamb Shank,Gallagher's Boxty House,29.32,4.1,Dublin,Ireland
+Potato Farls,The Greenhouse,29.33,3.2,Derry,Ireland
+Apple Tart,Copper Alley Bistro,26.29,3.5,Cork,Ireland
+Caesar Salad,Richmond,19.2,3.4,Waterford,Ireland
+Chicken Wings,Fade Street Social,14.82,4.6,Derry,Ireland
+Bangers and Mash,Matt the Thresher,23.43,4.1,Dublin,Ireland
+Bacon and Cabbage,Eddie Rocket's,24.41,5,Belfast,Ireland
+Caesar Salad,Bunsen,25.44,3.2,Belfast,Ireland
+Smoked Salmon,Umi Falafel,20.96,4,Waterford,Ireland
+Beef Burger,Boojum,12.67,4.4,Galway,Ireland
+Caesar Salad,Richmond,9.26,3.2,Kilkenny,Ireland
+Bangers and Mash,The Ivy Dublin,9.94,4,Cork,Ireland
+Potato Farls,The Woollen Mills,7.67,3.9,Belfast,Ireland
+Seafood Chowder,Gallagher's Boxty House,28.07,4.2,Waterford,Ireland
+Colcannon,777,7.43,3.9,Galway,Ireland
+Apple Tart,Matt the Thresher,25.78,4.1,Derry,Ireland
+Fish and Chips,Sophie's  The Dean,15.25,4.1,Waterford,Ireland
+Bacon and Cabbage,Pickle,27.84,4.5,Kilkenny,Ireland
+Spaghetti Carbonara,Richmond,11.75,4.2,Cork,Ireland
+Potato Farls,Richmond,10.55,3,Dublin,Ireland
+Irish Coffee,Chapter One,23.72,3.8,Derry,Ireland
+Boxty,The Pig's Ear,19.57,4.6,Kilkenny,Ireland
+Fish and Chips,Klaw,12.31,4.5,Dublin,Ireland
+Mushroom Risotto,The Winding Stair,6.63,3.1,Galway,Ireland
+Seafood Chowder,Umi Falafel,29.77,4.3,Dublin,Ireland
+Boxty,Pickle,20.78,3.2,Wexford,Ireland
+Caesar Salad,The Cedar Tree,7.03,3.9,Kilkenny,Ireland
+Irish Coffee,The Greenhouse,16.2,4,Waterford,Ireland
+Fish and Chips,Gallagher's Boxty House,11.26,4.9,Kilkenny,Ireland
+Smoked Salmon,The Winding Stair,28.42,4.4,Limerick,Ireland
+Irish Coffee,Gallagher's Boxty House,11.63,3.8,Kilkenny,Ireland
+Fish and Chips,Eddie Rocket's,20.18,3.2,Galway,Ireland
+Apple Tart,The Greenhouse,15.91,4.4,Limerick,Ireland
+Caesar Salad,Klaw,6.88,4.9,Dublin,Ireland
+Bacon and Cabbage,Gallagher's Boxty House,24.79,4.6,Kilkenny,Ireland
+Irish Coffee,The Ivy Dublin,6.45,3.4,Wexford,Ireland
+Vegetable Curry,Matt the Thresher,18.27,3.8,Derry,Ireland
+Chicken Fillet Roll,Gallagher's Boxty House,18.2,4.6,Cork,Ireland
+Irish Coffee,Cornucopia,8.26,4.6,Cork,Ireland
+Irish Coffee,Fade Street Social,10.83,4.4,Belfast,Ireland
+Mushroom Risotto,Sophie's  The Dean,25.75,3.8,Limerick,Ireland
+Beef and Guinness Stew,The Ivy Dublin,18.32,4.5,Sligo,Ireland
+Beef Burger,Fade Street Social,5.95,3,Waterford,Ireland
+Full Irish Breakfast,The Woollen Mills,18.88,4,Waterford,Ireland
+Caesar Salad,Chapter One,24.22,4.7,Limerick,Ireland
+Bangers and Mash,The Winding Stair,7.84,3.1,Derry,Ireland
+Margherita Pizza,777,24.22,4.3,Cork,Ireland
+Chicken Tikka Masala,The Pig's Ear,24.12,3.2,Kilkenny,Ireland
+Colcannon,Gallagher's Boxty House,22.75,3.6,Waterford,Ireland
+Bacon and Cabbage,Umi Falafel,28.15,3.7,Derry,Ireland
+Irish Stew,Fade Street Social,26.49,3.9,Cork,Ireland
+Baileys Cheesecake,Boojum,5.16,3.9,Dublin,Ireland
+Smoked Salmon,Dillinger's,19.25,4.8,Derry,Ireland
+Shepherd’s Pie,The Old Spot,7.7,4.8,Galway,Ireland
+Baileys Cheesecake,Fade Street Social,8.63,3.3,Galway,Ireland
+Beef and Guinness Stew,The Winding Stair,26.55,4.3,Galway,Ireland
+Black Pudding,The Winding Stair,27.35,3.8,Cork,Ireland
+Caesar Salad,The Ivy Dublin,12.25,3.4,Waterford,Ireland
+Chicken Tikka Masala,Fade Street Social,25.84,3.8,Sligo,Ireland
+Boxty,Cornucopia,20.7,3.9,Belfast,Ireland
+Caesar Salad,Sophie's  The Dean,16.56,3.9,Wexford,Ireland
+Irish Coffee,Gallagher's Boxty House,9.69,4.2,Sligo,Ireland
+Irish Coffee,The Winding Stair,16.16,4.7,Cork,Ireland
+Chicken Fillet Roll,Bunsen,21.31,3.6,Waterford,Ireland
+Black Pudding,Leo Burdock,19.68,3.7,Dublin,Ireland
+Black Pudding,Dillinger's,14.93,3.2,Belfast,Ireland
+Soda Bread,The Ivy Dublin,27.17,4,Kilkenny,Ireland
+Vegetable Curry,Dillinger's,12.14,4.6,Derry,Ireland
+Irish Stew,Matt the Thresher,15.74,5,Sligo,Ireland
+Fish and Chips,Pickle,16.58,4,Kilkenny,Ireland
+Coddle,The Greenhouse,28.22,3.2,Dublin,Ireland
+Boxty,The Cedar Tree,21.56,4.2,Dublin,Ireland
+Beef and Guinness Stew,Chapter One,7.51,4.3,Belfast,Ireland
+Chicken Wings,The Woollen Mills,17.99,4.7,Derry,Ireland
+Chicken Fillet Roll,777,5.76,4.4,Wexford,Ireland
+Bangers and Mash,Sophie's  The Dean,24.2,3.6,Waterford,Ireland
+Boxty,The Woollen Mills,16.93,4.1,Galway,Ireland
+Coddle,Pickle,11.74,4,Sligo,Ireland
+Baileys Cheesecake,The Old Spot,23.12,3.6,Cork,Ireland
+Beef Burger,Eddie Rocket's,16.52,4.3,Limerick,Ireland
+Potato Farls,Richmond,6.75,4.1,Belfast,Ireland
+Chicken Wings,Cornucopia,7.38,3.7,Belfast,Ireland
+Chicken Fillet Roll,The Cedar Tree,15.75,3.9,Waterford,Ireland
+Soda Bread,Copper Alley Bistro,13.53,3.3,Cork,Ireland
+Potato Farls,Matt the Thresher,6.46,3.8,Cork,Ireland
+Coddle,The Greenhouse,13.93,4.4,Dublin,Ireland
+Chicken Fillet Roll,Eddie Rocket's,23.75,3.1,Waterford,Ireland
+Beef and Guinness Stew,The Millstone,19.24,4.6,Limerick,Ireland
+Vegetable Curry,Copper Alley Bistro,28.99,4.4,Waterford,Ireland
+Vegetable Curry,Copper Alley Bistro,25.52,3.3,Dublin,Ireland
+Black Pudding,The Old Spot,6.23,4.9,Sligo,Ireland
+Smoked Salmon,The Pig's Ear,11.2,4.2,Cork,Ireland
+Baileys Cheesecake,Copper Alley Bistro,6.13,4.8,Kilkenny,Ireland
+Bacon and Cabbage,Dillinger's,21.57,4.2,Kilkenny,Ireland
+Lamb Shank,Fade Street Social,22.67,4.3,Sligo,Ireland
+Full Irish Breakfast,Umi Falafel,28.57,3.8,Limerick,Ireland
+Bacon and Cabbage,Eddie Rocket's,19.04,4.1,Wexford,Ireland
+Mushroom Risotto,Bunsen,15.42,5,Waterford,Ireland
+Baileys Cheesecake,The Old Spot,8.52,3.5,Sligo,Ireland
+Smoked Salmon,The Old Spot,18.96,4.7,Wexford,Ireland
+Caesar Salad,Gallagher's Boxty House,24.73,5,Limerick,Ireland
+Soda Bread,The Old Spot,11.78,4.7,Sligo,Ireland
+Beef Burger,Pickle,29.5,4.7,Wexford,Ireland
+Fish and Chips,The Old Spot,7.72,4.2,Waterford,Ireland
+Fish and Chips,The Pig's Ear,23.35,3.3,Dublin,Ireland
+Baileys Cheesecake,The Pig's Ear,29.86,4.5,Limerick,Ireland
+Mushroom Risotto,Dillinger's,12.63,4.5,Cork,Ireland
+Apple Tart,Leo Burdock,9.8,3.2,Galway,Ireland
+Mushroom Risotto,Cornucopia,6.37,3.5,Sligo,Ireland
+Bacon and Cabbage,The Old Spot,20.35,4.7,Kilkenny,Ireland
+Pad Thai,Leo Burdock,23.89,3.2,Derry,Ireland
+Spaghetti Carbonara,The Cedar Tree,8.9,3.6,Wexford,Ireland
+Seafood Chowder,Fade Street Social,23.9,3.7,Wexford,Ireland
+Margherita Pizza,Eddie Rocket's,23.56,3.2,Cork,Ireland
+Spaghetti Carbonara,Umi Falafel,21.51,4.8,Sligo,Ireland
+Vegetable Curry,Copper Alley Bistro,5.47,4,Belfast,Ireland
+Coddle,The Woollen Mills,16.6,3.4,Dublin,Ireland
+Beef and Guinness Stew,The Woollen Mills,19.74,3.2,Galway,Ireland
+Coddle,Umi Falafel,28.73,4.8,Sligo,Ireland
+Margherita Pizza,The Millstone,29.24,4.2,Dublin,Ireland
+Colcannon,Cornucopia,29.57,4.1,Sligo,Ireland
+Black Pudding,The Woollen Mills,22.41,3.2,Dublin,Ireland
+Full Irish Breakfast,The Ivy Dublin,16.32,4.7,Derry,Ireland
+Fish and Chips,Dillinger's,28.8,3.2,Limerick,Ireland
+Chicken Fillet Roll,The Old Spot,13.95,4.9,Galway,Ireland
+Beef Burger,Richmond,6.55,3.5,Dublin,Ireland
+Potato Farls,The Greenhouse,17.6,4.9,Kilkenny,Ireland
+Full Irish Breakfast,The Millstone,29.16,4,Cork,Ireland
+Spaghetti Carbonara,The Ivy Dublin,11.99,4,Kilkenny,Ireland
+Beef Burger,The Cedar Tree,22.47,4.7,Belfast,Ireland
+Soda Bread,The Greenhouse,26.94,4.3,Cork,Ireland
+Bacon and Cabbage,777,18.42,3,Sligo,Ireland
+Mushroom Risotto,Klaw,27.36,4.6,Dublin,Ireland
+Irish Coffee,Klaw,8.28,4.6,Waterford,Ireland
+Irish Stew,Pickle,22.03,3.5,Belfast,Ireland
+Bangers and Mash,Copper Alley Bistro,22.73,3.6,Limerick,Ireland
+Full Irish Breakfast,The Greenhouse,18.58,4.9,Derry,Ireland
+Apple Tart,Richmond,19.05,4.4,Cork,Ireland
+Potato Farls,Copper Alley Bistro,12.12,4.9,Belfast,Ireland
+Bacon and Cabbage,Dillinger's,22.01,3.7,Waterford,Ireland
+Seafood Chowder,Eddie Rocket's,26.7,4.2,Belfast,Ireland
+Lamb Shank,The Greenhouse,22.48,4.1,Cork,Ireland
+Irish Stew,Richmond,9.29,4.2,Galway,Ireland
+Chicken Fillet Roll,Umi Falafel,29.27,4.9,Dublin,Ireland
+Chicken Wings,The Greenhouse,22.53,4.8,Waterford,Ireland
+Boxty,Eddie Rocket's,17.96,4.9,Sligo,Ireland
+Spaghetti Carbonara,The Greenhouse,21.25,3.6,Limerick,Ireland
+Spaghetti Carbonara,Klaw,11.73,4.6,Sligo,Ireland
+Caesar Salad,The Winding Stair,11.03,5,Cork,Ireland
+Smoked Salmon,The Millstone,16.72,4.9,Cork,Ireland
+Baileys Cheesecake,The Woollen Mills,14.64,3.2,Derry,Ireland
+Shepherd’s Pie,Chapter One,18.86,4.1,Dublin,Ireland
+Apple Tart,Dillinger's,27.43,4.7,Wexford,Ireland
+Baileys Cheesecake,The Woollen Mills,9.37,4,Sligo,Ireland
+Mushroom Risotto,Richmond,5.37,4.1,Kilkenny,Ireland
+Beef and Guinness Stew,Fade Street Social,7.8,3.5,Kilkenny,Ireland
+Chicken Tikka Masala,Eddie Rocket's,6.74,3,Waterford,Ireland
+Full Irish Breakfast,The Ivy Dublin,11.2,3.3,Belfast,Ireland
+Mushroom Risotto,Umi Falafel,7.75,4.6,Dublin,Ireland
+Chicken Tikka Masala,The Woollen Mills,24.95,4.9,Dublin,Ireland
+Beef Burger,Klaw,22.03,3,Belfast,Ireland
+Irish Stew,Chapter One,23.34,3.8,Cork,Ireland
+Full Irish Breakfast,Bunsen,27.98,4.7,Galway,Ireland
+Margherita Pizza,The Greenhouse,13.99,4.9,Belfast,Ireland
+Soda Bread,Boojum,9.68,4.9,Waterford,Ireland
+Full Irish Breakfast,Boojum,26.79,4.1,Kilkenny,Ireland
+Caesar Salad,Boojum,29.97,3,Galway,Ireland
+Caesar Salad,Sophie's  The Dean,29.35,4.2,Wexford,Ireland
+Colcannon,Umi Falafel,17.9,4.1,Galway,Ireland
+Pad Thai,Sophie's  The Dean,21.94,3.1,Belfast,Ireland
+Black Pudding,The Winding Stair,25.29,3.6,Sligo,Ireland
+Smoked Salmon,Fade Street Social,20.06,4.9,Wexford,Ireland
+White Pudding,Klaw,13.39,3.4,Kilkenny,Ireland
+Fish and Chips,Matt the Thresher,7.31,4,Sligo,Ireland
+Irish Coffee,Gallagher's Boxty House,11.06,4.3,Limerick,Ireland
+Bangers and Mash,Chapter One,25.54,4.4,Galway,Ireland
+Mushroom Risotto,The Old Spot,16.48,4.9,Wexford,Ireland
+Fish and Chips,Fade Street Social,26.06,4.2,Cork,Ireland
+Black Pudding,Sophie's  The Dean,23.26,4.1,Kilkenny,Ireland
+Baileys Cheesecake,Sophie's  The Dean,11.97,4.8,Derry,Ireland
+Fish and Chips,The Greenhouse,23.39,4,Sligo,Ireland
+Chicken Tikka Masala,Matt the Thresher,23.08,3.4,Cork,Ireland
+Margherita Pizza,Matt the Thresher,21.94,3.6,Kilkenny,Ireland
+Irish Coffee,Leo Burdock,21.95,4,Kilkenny,Ireland
+Margherita Pizza,Copper Alley Bistro,23.62,3.5,Dublin,Ireland
+Chicken Fillet Roll,The Cedar Tree,17.68,4.3,Dublin,Ireland
+Coddle,Umi Falafel,10.36,3.3,Dublin,Ireland
+Bacon and Cabbage,Bunsen,17.37,4,Limerick,Ireland
+Potato Farls,The Ivy Dublin,9.46,4.7,Limerick,Ireland
+Irish Coffee,Eddie Rocket's,28.69,3.8,Cork,Ireland
+Soda Bread,Copper Alley Bistro,21.78,3.6,Wexford,Ireland
+Colcannon,Chapter One,24.78,4.4,Galway,Ireland
+Bangers and Mash,Bunsen,13.6,3.6,Kilkenny,Ireland
+Chicken Wings,Chapter One,10.45,3.3,Galway,Ireland
+Irish Stew,Matt the Thresher,7.63,4.9,Kilkenny,Ireland
+Full Irish Breakfast,777,18.72,4.1,Belfast,Ireland
+Caesar Salad,The Cedar Tree,17.25,4.4,Dublin,Ireland
+Vegetable Curry,The Pig's Ear,8.13,4.5,Derry,Ireland
+Pad Thai,The Ivy Dublin,10.37,4.2,Limerick,Ireland
+Vegetable Curry,Chapter One,28.76,4.7,Waterford,Ireland
+Beef Burger,The Cedar Tree,10.65,4.3,Limerick,Ireland
+Boxty,The Cedar Tree,11.74,4.8,Dublin,Ireland
+Black Pudding,The Ivy Dublin,13.61,4.1,Galway,Ireland
+White Pudding,Eddie Rocket's,18.09,4.9,Sligo,Ireland
+Soda Bread,The Winding Stair,12.76,3.8,Galway,Ireland
+White Pudding,The Greenhouse,17.48,3.7,Kilkenny,Ireland
+Caesar Salad,Gallagher's Boxty House,12.21,3.1,Wexford,Ireland
+Irish Coffee,Umi Falafel,22.7,3.8,Belfast,Ireland
+Fish and Chips,777,10.99,3.5,Galway,Ireland
+Black Pudding,Umi Falafel,9.99,4.6,Limerick,Ireland
+Baileys Cheesecake,The Greenhouse,10.5,3.3,Cork,Ireland
+Mushroom Risotto,Chapter One,23.25,3.6,Galway,Ireland
+Chicken Fillet Roll,The Woollen Mills,15.48,4.4,Limerick,Ireland
+Bacon and Cabbage,The Ivy Dublin,25.53,4.9,Dublin,Ireland
+Seafood Chowder,Umi Falafel,9.34,3.3,Sligo,Ireland
+Seafood Chowder,Umi Falafel,17.62,3.1,Belfast,Ireland
+Beef and Guinness Stew,The Greenhouse,11.32,3,Waterford,Ireland
+White Pudding,The Ivy Dublin,11.17,3.2,Belfast,Ireland
+Colcannon,Cornucopia,27.36,4.1,Dublin,Ireland
+Lamb Shank,Cornucopia,23.48,4,Belfast,Ireland
+Potato Farls,Dillinger's,23.13,4.8,Limerick,Ireland
+Apple Tart,The Millstone,27.04,4.1,Kilkenny,Ireland
+Potato Farls,Dillinger's,8.92,3,Kilkenny,Ireland
+Bangers and Mash,The Woollen Mills,9.43,4.2,Sligo,Ireland
+Seafood Chowder,Matt the Thresher,19.19,3.9,Sligo,Ireland
+Vegetable Curry,Dillinger's,26.39,4.6,Kilkenny,Ireland
+Coddle,Eddie Rocket's,23.41,3.6,Belfast,Ireland
+Irish Stew,The Pig's Ear,14.04,4.4,Belfast,Ireland
+Boxty,Sophie's  The Dean,12.66,4.1,Kilkenny,Ireland
+Lamb Shank,The Old Spot,14.58,4.7,Wexford,Ireland
+Potato Farls,Leo Burdock,16.51,3.2,Dublin,Ireland
+Caesar Salad,The Woollen Mills,10.06,5,Sligo,Ireland
+Black Pudding,The Millstone,14.06,3.7,Kilkenny,Ireland
+Mushroom Risotto,Klaw,26.94,4.7,Dublin,Ireland
+Chicken Tikka Masala,The Pig's Ear,13.45,3.8,Belfast,Ireland
+Lamb Shank,Boojum,10.13,3.7,Galway,Ireland
+Shepherd’s Pie,Copper Alley Bistro,28.75,4.3,Cork,Ireland
+Lamb Shank,The Ivy Dublin,22.16,3.7,Galway,Ireland
+White Pudding,The Cedar Tree,14.71,3.2,Kilkenny,Ireland
+Soda Bread,Boojum,26.32,4.8,Kilkenny,Ireland
+White Pudding,The Winding Stair,6.33,3.4,Waterford,Ireland
+Irish Stew,The Woollen Mills,7.26,3.2,Kilkenny,Ireland
+Beef Burger,The Woollen Mills,13.21,3.2,Sligo,Ireland
+Full Irish Breakfast,Klaw,16.46,3,Belfast,Ireland
+Chicken Tikka Masala,Eddie Rocket's,18.23,3.4,Galway,Ireland
+Margherita Pizza,The Winding Stair,19.11,4.9,Sligo,Ireland
+Vegetable Curry,Klaw,11.75,4.2,Cork,Ireland
+Potato Farls,Pickle,23.76,3.3,Dublin,Ireland
+Potato Farls,The Pig's Ear,20.04,3.1,Limerick,Ireland
+Irish Stew,The Winding Stair,26.85,3.6,Dublin,Ireland
+Boxty,The Pig's Ear,8.63,3,Galway,Ireland
+Baileys Cheesecake,Klaw,9.12,4.6,Sligo,Ireland
+Irish Coffee,Boojum,11.29,4.6,Dublin,Ireland
+Colcannon,Gallagher's Boxty House,10.86,3.3,Cork,Ireland
+Caesar Salad,Umi Falafel,11.22,4,Belfast,Ireland
+Lamb Shank,Matt the Thresher,24.77,3.8,Belfast,Ireland
+Pad Thai,Chapter One,24.57,3.2,Derry,Ireland
+Baileys Cheesecake,777,8.39,4.1,Sligo,Ireland
+Bangers and Mash,The Cedar Tree,14.06,4.6,Cork,Ireland
+Soda Bread,Richmond,11.9,3.7,Dublin,Ireland
+Spaghetti Carbonara,The Pig's Ear,5.24,4,Sligo,Ireland
+Boxty,The Cedar Tree,27.67,4.2,Belfast,Ireland
+Lamb Shank,Cornucopia,29.5,4.7,Cork,Ireland
+Fish and Chips,Richmond,28.66,3.8,Derry,Ireland
+Coddle,Boojum,21.3,5,Wexford,Ireland
+Vegetable Curry,The Pig's Ear,29.88,3.4,Cork,Ireland
+Chicken Wings,Matt the Thresher,19.25,4.5,Waterford,Ireland
+Smoked Salmon,Klaw,10.29,4.3,Limerick,Ireland
+Margherita Pizza,The Millstone,29.17,4.8,Belfast,Ireland
+Lamb Shank,Eddie Rocket's,20.89,3.2,Kilkenny,Ireland
+Full Irish Breakfast,777,18.58,3.2,Dublin,Ireland
+Chicken Wings,The Cedar Tree,6.18,4.3,Waterford,Ireland
+Beef and Guinness Stew,Richmond,27.66,3.2,Galway,Ireland
+Chicken Wings,Dillinger's,6.68,3.2,Derry,Ireland
+Chicken Tikka Masala,Fade Street Social,23.66,4.4,Derry,Ireland
+Full Irish Breakfast,The Old Spot,16.93,4.2,Derry,Ireland
+Baileys Cheesecake,Boojum,13.8,3.8,Wexford,Ireland
+Soda Bread,Leo Burdock,8.13,4.4,Galway,Ireland
+Chicken Tikka Masala,The Cedar Tree,26.55,4.1,Sligo,Ireland
+Full Irish Breakfast,Sophie's  The Dean,15.9,3.1,Belfast,Ireland
+Chicken Wings,Leo Burdock,19.09,4.7,Cork,Ireland
+Seafood Chowder,The Millstone,14.99,3.9,Derry,Ireland
+Caesar Salad,The Cedar Tree,24.88,4.4,Sligo,Ireland
+Margherita Pizza,Bunsen,18.22,4.7,Kilkenny,Ireland
+Fish and Chips,Cornucopia,12.75,3.5,Waterford,Ireland
+Seafood Chowder,Klaw,8.73,3.8,Waterford,Ireland
+Baileys Cheesecake,Matt the Thresher,21.85,4.2,Dublin,Ireland
+Lamb Shank,The Pig's Ear,10.95,3.6,Galway,Ireland
+Chicken Tikka Masala,The Woollen Mills,18.05,4.6,Belfast,Ireland
+Black Pudding,Fade Street Social,13.28,4.7,Sligo,Ireland
+Chicken Fillet Roll,The Winding Stair,22.34,3.7,Waterford,Ireland
+Apple Tart,The Cedar Tree,25.51,4.9,Derry,Ireland
+Shepherd’s Pie,Eddie Rocket's,11.3,4.2,Belfast,Ireland
+Beef Burger,Sophie's  The Dean,10.39,4.5,Kilkenny,Ireland
+Caesar Salad,Eddie Rocket's,9.86,4.8,Cork,Ireland
+Spaghetti Carbonara,Cornucopia,14.04,4.3,Cork,Ireland
+Bangers and Mash,Chapter One,14.4,3.9,Kilkenny,Ireland
+Beef Burger,Klaw,25.42,4.3,Derry,Ireland
+White Pudding,The Ivy Dublin,13.09,4.4,Kilkenny,Ireland
+Margherita Pizza,Umi Falafel,6.34,3.7,Derry,Ireland
+Seafood Chowder,The Greenhouse,26.28,3.9,Galway,Ireland
+Lamb Shank,Boojum,27.1,3.2,Wexford,Ireland
+Baileys Cheesecake,Richmond,23.29,5,Dublin,Ireland
+Irish Coffee,Klaw,12.83,3.9,Derry,Ireland
+Irish Coffee,The Greenhouse,16.37,4.4,Belfast,Ireland
+Beef and Guinness Stew,The Cedar Tree,12.77,4.1,Kilkenny,Ireland
+Spaghetti Carbonara,The Ivy Dublin,15.66,3.6,Galway,Ireland
+Apple Tart,The Greenhouse,29.66,3.3,Derry,Ireland
+Fish and Chips,Cornucopia,17.03,3.5,Derry,Ireland
+Full Irish Breakfast,The Ivy Dublin,21.56,4.5,Wexford,Ireland
+Baileys Cheesecake,The Pig's Ear,19.9,3.9,Cork,Ireland
+Apple Tart,777,14.95,3.3,Dublin,Ireland
+Chicken Wings,Richmond,28.61,3.4,Cork,Ireland
+Seafood Chowder,The Cedar Tree,7.28,5,Sligo,Ireland
+Bangers and Mash,Sophie's  The Dean,11.99,4,Derry,Ireland
+Vegetable Curry,Eddie Rocket's,12,4.4,Belfast,Ireland
+Soda Bread,Umi Falafel,28.56,3.8,Sligo,Ireland
+Vegetable Curry,Leo Burdock,27.11,3.1,Wexford,Ireland
+Potato Farls,Klaw,8.72,3.4,Dublin,Ireland
+Smoked Salmon,The Cedar Tree,8.22,4.5,Wexford,Ireland
+Shepherd’s Pie,The Cedar Tree,29.81,3.3,Belfast,Ireland
+Chicken Tikka Masala,Sophie's  The Dean,18.66,4.3,Kilkenny,Ireland
+Chicken Wings,Leo Burdock,11,3.2,Galway,Ireland
+Coddle,Boojum,13.91,4.1,Cork,Ireland
+Beef and Guinness Stew,The Woollen Mills,10.2,4.1,Limerick,Ireland
+Bangers and Mash,Matt the Thresher,13.69,3.1,Cork,Ireland
+Smoked Salmon,Umi Falafel,5.43,4.9,Limerick,Ireland
+Spaghetti Carbonara,Copper Alley Bistro,7.6,4.3,Wexford,Ireland
+Soda Bread,Matt the Thresher,12.16,3,Cork,Ireland
+Chicken Fillet Roll,777,11.65,3.2,Kilkenny,Ireland
+Beef Burger,Sophie's  The Dean,26.63,5,Derry,Ireland
+Chicken Tikka Masala,Eddie Rocket's,24.61,4.7,Dublin,Ireland
+Caesar Salad,The Millstone,28.03,4.9,Belfast,Ireland
+Caesar Salad,Cornucopia,11.04,3.7,Galway,Ireland
+Irish Stew,Copper Alley Bistro,27.17,4.7,Belfast,Ireland
