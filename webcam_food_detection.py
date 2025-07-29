@@ -3,7 +3,7 @@ import time
 from ultralytics import YOLO
 
 # Load YOLO model
-model = YOLO("C:/Users/Bazam/Documents/DBS/SECOND SEMESTER/RECCOMENDER SYSTEMS(B9AI103)/food datatset/runs/detect/yolo_food_detection/weights/best.pt") 
+model = YOLO("./weights/best.pt") 
 
 # Initialize webcam
 cap = None
