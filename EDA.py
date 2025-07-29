@@ -15,7 +15,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from sklearn.decomposition import PCA
 
 # Load data
-path = "/content/sample_data/irish_restaurants_meals_final.csv"
+path = "irish_restaurants_meals_final.csv"
 df = pd.read_csv(path)
 
 # Preprocessing - more comprehensive NaN handling
