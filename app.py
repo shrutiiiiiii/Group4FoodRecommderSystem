@@ -5,11 +5,19 @@ from flask import Flask, request, jsonify, render_template
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.preprocessing import StandardScaler
 from collections import Counter
+import base64
+from PIL import Image
+import io
+# Import necessary libraries for YOLO if not already imported globally
+# Example:
+# from some_yolo_library import YOLOModel, preprocess_image
+from ultralytics import YOLO
+
 
 FOOD_CATEGORIES = [
-    'apple pie', 'burger', 'cheesecake', 'chicken curry', 
-    'chicken wings', 'chocolate cake', 'donuts', 'fries', 
-    'hot dog', 'ice cream', 'pizza', 'sandwich', 
+    'apple pie', 'burger', 'cheesecake', 'chicken curry',
+    'chicken wings', 'chocolate cake', 'donuts', 'fries',
+    'hot dog', 'ice cream', 'pizza', 'sandwich',
     'steak', 'tacos', 'waffles'
 ]
 
@@ -52,9 +60,13 @@ class RestaurantRecommender:
     def _preprocess_data(self):
         self.df.dropna(subset=['Rating', 'Price', 'Latitude', 'Longitude'], inplace=True)
         self.df['Category'] = self.df['Meal'].apply(self._categorize_meal)
-        self.df['Address'] = self.df.apply(
-            lambda row: f"Near ({row['Latitude']:.3f}, {row['Longitude']:.3f})", axis=1
-        )
+
+        if 'Full Address' in self.df.columns:
+            self.df['Address'] = self.df['Full Address']
+        else:
+            self.df['Address'] = self.df.apply(
+                lambda row: f"Near ({row['Latitude']:.3f}, {row['Longitude']:.3f})", axis=1
+            )
 
         scaler = StandardScaler()
         features = self.df[['Price', 'Rating', 'Latitude', 'Longitude']]
@@ -62,6 +74,7 @@ class RestaurantRecommender:
 
         self.feature_matrix = self.df[['Price_scaled', 'Rating_scaled', 'Lat_scaled', 'Lon_scaled']].values
         self.similarity_matrix = cosine_similarity(self.feature_matrix)
+
 
     def _categorize_meal(self, meal_name):
         meal_lower = meal_name.lower()
@@ -121,6 +134,11 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 data_path = os.path.join(script_dir, "irish_restaurants_meals_final.csv")
 recommender = RestaurantRecommender(data_path)
 
+# Initialize your YOLO model here if it's a class or needs loading
+# Example:
+yolo_model = YOLO("./weights/best.pt")
+
+
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -134,8 +152,27 @@ def detect():
         return jsonify({"status": "error", "message": "No image data provided"})
 
     try:
-        # TODO: Replace with YOLO detections
-        detected_items = ['burger', 'fries']  # TEMP: Mock for now
+        # Decode the base64 image data
+        # The image data is expected to be in the format "data:image/jpeg;base64,..."
+        header, base64_string = image_data.split(',', 1)
+        image_bytes = base64.b64decode(base64_string)
+        image = Image.open(io.BytesIO(image_bytes))
+
+        # TODO: Integrate your YOLO detection code here
+        # Run your YOLO model on the 'image' variable (PIL Image object)
+        # The YOLO model should return a list of detected object class names (strings)
+        # Example:
+        # results = yolo_model(image)
+        # detected_items = [box.cls for box in results.xyxy[0]] # Adjust based on your YOLO output format
+
+        # Example using the provided YOLO model object:
+        results = yolo_model(image)
+        detected_items = []
+        for r in results:
+            for c in r.boxes.cls:
+                detected_items.append(yolo_model.names[int(c)])
+
+        # detected_items = ['burger', 'fries']  # TEMP: Mock for now - REMOVE THIS LINE
 
         recommendations = recommender.get_recommendations(detected_items=detected_items)
 
@@ -143,14 +180,26 @@ def detect():
             'Restaurant', 'Meal', 'Price', 'Rating', 'Address', 'Latitude', 'Longitude'
         ]].to_dict(orient='records')
 
-        return jsonify({
+        # Include the original image data (or processed image data) in the response
+        # You can send back the original base64 string or re-encode the processed image
+        response_data = {
             "status": "success",
             "detected_items": detected_items,
-            "recommendations": recommendation_list
-        })
+            "recommendations": recommendation_list,
+            "image": image_data # Include the image data in the response
+        }
+
+
+        return jsonify(response_data)
 
     except Exception as e:
         return jsonify({"status": "error", "message": str(e)})
 
 if __name__ == "__main__":
+    # If running in Colab, you might need to use a different method to expose the Flask app
+    # like ngrok or flask-ngrok.
+    # For a standard local run, app.run() is fine.
+    # Example for Colab with flask-ngrok:
+    # from flask_ngrok import run_with_ngrok
+    # run_with_ngrok(app)
     app.run(debug=True)
