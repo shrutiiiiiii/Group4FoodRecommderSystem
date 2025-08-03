@@ -1,2 +1,3 @@
 2025-08-03 12:47:53,Sunil,5,Detected fries with all restaurant names, ratings, address of restaurant and the dish name+price
 2025-08-03 16:25:58,Shridhar,4,Nice but takes few seconds to detect and load.
+2025-08-03 16:44:03,Bazam Ishaku,3,detected fries successfully but classified with waffles which is not in the image. With higher accuracy this is actually promising 
