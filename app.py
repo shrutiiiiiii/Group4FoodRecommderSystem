@@ -224,8 +224,6 @@ def get_feedback():
     except FileNotFoundError:
         return jsonify({"status": "success", "feedbacks": []})
 
-if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=8080)
 
 if __name__ == "__main__":
     # If running in Colab, you might need to use a different method to expose the Flask app
