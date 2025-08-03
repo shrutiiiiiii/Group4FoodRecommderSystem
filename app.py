@@ -12,6 +12,8 @@ import io
 # Example:
 # from some_yolo_library import YOLOModel, preprocess_image
 from ultralytics import YOLO
+from datetime import datetime
+FEEDBACK_FILE = "feedback.txt"
 
 
 FOOD_CATEGORIES = [
@@ -195,6 +197,36 @@ def detect():
     except Exception as e:
         return jsonify({"status": "error", "message": str(e)})
 
+@app.route('/feedback', methods=['POST'])
+def submit_feedback():
+    try:
+        data = request.get_json()
+        username = data.get('username', 'anonymous')
+        rating = data.get('rating')
+        comments = data.get('comments', '')
+        
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        
+        with open(FEEDBACK_FILE, 'a') as f:
+            f.write(f"{timestamp},{username},{rating},{comments}\n")
+        
+        return jsonify({"status": "success"})
+    
+    except Exception as e:
+        return jsonify({"status": "error", "message": str(e)})
+
+@app.route('/get-feedback')
+def get_feedback():
+    try:
+        with open(FEEDBACK_FILE, 'r') as f:
+            feedbacks = [line.strip().split(',', 3) for line in f.readlines()]
+        return jsonify({"status": "success", "feedbacks": feedbacks})
+    except FileNotFoundError:
+        return jsonify({"status": "success", "feedbacks": []})
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=8080)
+
 if __name__ == "__main__":
     # If running in Colab, you might need to use a different method to expose the Flask app
     # like ngrok or flask-ngrok.
@@ -203,4 +235,4 @@ if __name__ == "__main__":
     # from flask_ngrok import run_with_ngrok
     # run_with_ngrok(app)
     #app.run(debug=True)
-    app.run(host='0.0.0.0', port=8080)
+    app.run(host='127.0.0.1', port=8080)
