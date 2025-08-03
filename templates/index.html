@@ -165,7 +165,7 @@
         
         <div class="section">
             <h2>Detect Food with Webcam</h2>
-            <h3>scan any food like burger or fries/ice cream/pizza/sandwich</h3>
+            <h3>scan any food like burger or fries/waffle/pizza/sandwich</h3>
             <div class="camera-container">
                 <video id="webcam" autoplay playsinline></video>
                 <img id="capturedImage" />
@@ -304,7 +304,7 @@
                 const card = document.createElement('div');
                 card.className = 'restaurant-card';
 
-                const mapSrc = `https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=${item.Latitude},${item.Longitude}`;
+                //const mapSrc = `https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=${item.Latitude},${item.Longitude}`;
 
                 card.innerHTML = `
                     <h3>${item.Restaurant || 'Unknown'}</h3>
@@ -313,15 +313,7 @@
                     <p><strong>Rating:</strong> ${item.Rating || '0'}/5</p>
                     <p><strong>Address:</strong> ${item.Address || 'Unknown address'}</p>
                     <p><strong>Coordinates:</strong> (${item.Latitude}, ${item.Longitude})</p>
-                    <iframe
-                        width="100%"
-                        height="200"
-                        frameborder="0"
-                        style="border:0; margin-top: 1rem;"
-                        src="https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=${item.Latitude},${item.Longitude}"
-                        allowfullscreen
-                        loading="lazy">
-                    </iframe>
+                    
                 `;
 
                 resultsDiv.appendChild(card);
