@@ -203,4 +203,4 @@ if __name__ == "__main__":
     # from flask_ngrok import run_with_ngrok
     # run_with_ngrok(app)
     #app.run(debug=True)
-    app.run(host='0.0.0.0', port=8000)
+    app.run(host='0.0.0.0', port=8080)
