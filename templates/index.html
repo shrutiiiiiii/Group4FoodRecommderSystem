@@ -144,6 +144,19 @@
         #capturedImage {
             display: none;
         }
+        .form-input {
+            width: 100%;
+            padding: 0.8rem;
+            margin: 0.5rem 0;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        textarea.form-input {
+            min-height: 100px;
+            resize: vertical;
+        }
     </style>
 </head>
 <body>
@@ -152,6 +165,7 @@
         
         <div class="section">
             <h2>Detect Food with Webcam</h2>
+            <h3>scan any food like burger or fries/ice cream/pizza/sandwich</h3>
             <div class="camera-container">
                 <video id="webcam" autoplay playsinline></video>
                 <img id="capturedImage" />
@@ -163,6 +177,23 @@
         </div>
         
         <div id="results"></div>
+        <div class="section">
+    <h2>Rate Your Experience</h2>
+        <div id="feedbackForm">
+            <input type="text" id="feedbackUsername" placeholder="Your name (optional)" class="form-input">
+            <select id="feedbackRating" class="form-input">
+            <option value="">Select rating</option>
+            <option value="5">Excellent</option>
+            <option value="4">Good</option>
+            <option value="3">Average</option>
+            <option value="2">Poor</option>
+            <option value="1">Terrible</option>
+        </select>
+        <textarea id="feedbackComments" placeholder="Your comments..." class="form-input"></textarea>
+        <button id="submitFeedback" class="btn">Submit Feedback</button>
+        </div>
+            <div id="feedbackResult"></div>
+        </div>
     </div>
 
     <script>
@@ -174,8 +205,12 @@
 
         async function initWebcam() {
             try {
+                // Change this line in initWebcam():
                 stream = await navigator.mediaDevices.getUserMedia({ 
-                    video: { facingMode: 'environment' }
+                    video: { facingMode: 'user' }  // Use front-facing camera
+                
+                //stream = await navigator.mediaDevices.getUserMedia({ 
+                  //  video: { facingMode: 'environment' }
                 });
                 webcam.srcObject = stream;
             } catch (err) {
@@ -294,6 +329,54 @@
         }
 
         window.addEventListener('load', initWebcam);
+// Feedback system
+        document.getElementById('submitFeedback').addEventListener('click', async () => {
+            const username = document.getElementById('feedbackUsername').value || 'anonymous';
+            const rating = document.getElementById('feedbackRating').value;
+            const comments = document.getElementById('feedbackComments').value;
+            
+            if (!rating) {
+                alert('Please select a rating');
+                return;
+            }
+
+            const btn = document.getElementById('submitFeedback');
+            btn.disabled = true;
+            btn.textContent = 'Submitting...';
+
+            try {
+                const response = await fetch('/feedback', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username, rating, comments })
+                });
+                
+                const result = await response.json();
+                
+                if (result.status === "success") {
+                    document.getElementById('feedbackResult').innerHTML = `
+                        <div class="alert alert-success">
+                            Thank you for your feedback!
+                        </div>
+                    `;
+                    // Clear form
+                    document.getElementById('feedbackUsername').value = '';
+                    document.getElementById('feedbackRating').value = '';
+                    document.getElementById('feedbackComments').value = '';
+                } else {
+                    throw new Error(result.message || "Failed to submit feedback");
+                }
+            } catch (error) {
+                document.getElementById('feedbackResult').innerHTML = `
+                    <div class="alert alert-warning">
+                        Error: ${error.message}
+                    </div>
+                `;
+            } finally {
+                btn.disabled = false;
+                btn.textContent = 'Submit Feedback';
+            }
+        });
     </script>
 </body>
 </html>
