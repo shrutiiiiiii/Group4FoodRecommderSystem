@@ -202,4 +202,5 @@ if __name__ == "__main__":
     # Example for Colab with flask-ngrok:
     # from flask_ngrok import run_with_ngrok
     # run_with_ngrok(app)
-    app.run(debug=True)
+    #app.run(debug=True)
+    app.run(host='0.0.0.0', port=8000)
